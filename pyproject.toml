@@ -1,0 +1,14 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "colorama>=0.4.6",
+    "discord-py>=2.5.2",
+    "gtts>=2.5.4",
+    "pyfiglet>=1.0.2",
+    "qrcode>=8.0",
+    "requests>=2.32.3",
+]
