@@ -1,1 +1,20 @@
 
+{
+    "prefix": "?",
+    "remote-users": [],
+    "autoreply": {
+        "messages": [
+            "https://github.com/",
+            "https://discord.gg/"
+        ],
+        "channels": [],
+        "users": []
+    },
+    "afk": {
+        "enabled": false,
+        "message": "đừng có ping nữa địt mẹ mày"
+    },
+    "copycat": {
+        "users": []
+    }
+}
