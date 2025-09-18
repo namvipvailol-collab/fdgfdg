@@ -1,0 +1,7 @@
+requests
+colorama
+discord.py-self
+gtts
+qrcode
+pyfiglet
+discord-py
